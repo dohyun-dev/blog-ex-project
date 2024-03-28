@@ -1,10 +1,10 @@
-package com.kwon.back.config;
+package com.kwon.back.global.config;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
-import com.kwon.back.dto.ErrorResponse;
-import com.kwon.back.exception.CustomException;
-import com.kwon.back.exception.ErrorCode;
-import com.kwon.back.filter.JwtAuthenticationFilter;
+import com.kwon.back.domain.common.dto.ErrorResponse;
+import com.kwon.back.global.exception.CustomException;
+import com.kwon.back.global.exception.ErrorCode;
+import com.kwon.back.global.filter.JwtAuthenticationFilter;
 import jakarta.servlet.ServletException;
 import jakarta.servlet.http.HttpServletRequest;
 import jakarta.servlet.http.HttpServletResponse;

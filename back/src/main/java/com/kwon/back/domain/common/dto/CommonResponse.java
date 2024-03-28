@@ -1,4 +1,4 @@
-package com.kwon.back.dto;
+package com.kwon.back.domain.common.dto;
 
 import lombok.Data;
 import org.springframework.http.HttpStatus;

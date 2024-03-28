@@ -1,4 +1,4 @@
-package com.kwon.back.exception;
+package com.kwon.back.global.exception;
 
 import org.springframework.http.HttpStatus;
 

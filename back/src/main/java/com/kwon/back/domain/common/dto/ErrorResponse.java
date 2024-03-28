@@ -1,6 +1,6 @@
-package com.kwon.back.dto;
+package com.kwon.back.domain.common.dto;
 
-import com.kwon.back.exception.CustomException;
+import com.kwon.back.global.exception.CustomException;
 import org.springframework.http.ResponseEntity;
 
 public record ErrorResponse(String code, String message) {

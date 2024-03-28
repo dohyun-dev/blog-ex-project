@@ -1,4 +1,4 @@
-package com.kwon.back.entity;
+package com.kwon.back.domain.user.entity;
 
 public enum UserRole {
     USER("ROLE_USER"),

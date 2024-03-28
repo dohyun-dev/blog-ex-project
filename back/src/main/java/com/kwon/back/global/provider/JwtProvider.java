@@ -1,4 +1,4 @@
-package com.kwon.back.provider;
+package com.kwon.back.global.provider;
 
 import io.jsonwebtoken.Claims;
 import io.jsonwebtoken.Jwts;
