@@ -1,0 +1,14 @@
+.board-list-item {
+    padding: 1.5rem;
+    background: rgba(255, 255, 255, 1);
+    display: flex;
+    align-items: center;
+    gap: 1.8rem;
+}
+
+.board-list-item-top {
+    display: flex;
+}
+
+.board-list-item-profile-image {
+}
